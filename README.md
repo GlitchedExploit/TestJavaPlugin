@@ -1,0 +1,2 @@
+# TestJavaPlugin
+Just a test.
